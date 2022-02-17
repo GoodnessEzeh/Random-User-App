@@ -1,5 +1,7 @@
 # random_user app
 
+A full-stack app that randomly generates new users
+
 ## Technologies used
 
 ## To Run the project execute following commands in sequence
